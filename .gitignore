@@ -1,0 +1,61 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+env/
+.venv/
+ENV/
+
+# ===============================
+# Jupyter / Notebooks
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Streamlit
+# ===============================
+.streamlit/
+
+# ===============================
+# OS / System Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Logs & Cache
+# ===============================
+*.log
+.cache/
+
+# ===============================
+# IDEs / Editors
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.env.*
+
+# ===============================
+# Model Training Artifacts (OPTIONAL)
+# Comment these out if you want to keep models in repo
+# ===============================
+# *.pkl
+# *.joblib
+
+creditcard.csv
